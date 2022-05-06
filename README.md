@@ -11,7 +11,7 @@ Flutter Bootcamp 16.Takım
 - Merve Bozdemir
 
 ## Ürün İsmi
--- ürün ismi--
+For Animals
 
 ## Ürün Açıklaması
  - Gönüllülerden oluşan kullanıcılar sayesinde kurulan takımlar yardıma muhtaç sokak hayvanlarının ihtiyaçlarını karşılayacaklar.
