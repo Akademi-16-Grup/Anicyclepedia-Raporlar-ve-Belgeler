@@ -37,3 +37,18 @@ buraya miroda yaptığım kanban şemasının linki gelcek
 ---
 
 # Sprint 1
+
+- **Sprint Notları** : User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Puan tamamlama mantığı**:
+- **Backlog düzeni ve Story seçimleri**: 
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir.
+-  **Sprint board update**: Sprint board screenshotları: 
+-  resim
+-  resim
+-  **Ürün Durumu**: Ekran görüntüleri:
+-  ürün ss
+-  ürün ss
+- **Sprint Review**: sprint sonu dönemi gözden geçirip değerlendrmesi buraya yazılacak
+- **Sprint Retrospective**: geriye dönük genelde olumlu olayları konuşup yaptığımız çıkarımlar vs..
+- -**Diğer Notlar**: varsa 
