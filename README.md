@@ -4,11 +4,11 @@ Flutter Bootcamp 16.Takım
 
 ## Takım Elemanları
 
-- Ahmet Emir Demirtaş: Product Owner
-- Mertcan Cihan: Scrum Master
-- Yüsra Üce: Developer
-- Betül Karabudak: Developer
-- Merve Bozdemir: Developer
+- Ahmet Emir Demirtaş
+- Mertcan Cihan
+- Yüsra Üce
+- Betül Karabudak
+- Merve Bozdemir
 
 ## Ürün İsmi
 -- ürün ismi--
