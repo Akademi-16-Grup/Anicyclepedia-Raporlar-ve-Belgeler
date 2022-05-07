@@ -4,11 +4,11 @@ Flutter Bootcamp 16.Takım
 
 ## Takım Elemanları
 
-- Ahmet Emir Demirtaş
-- Mertcan Cihan
-- Yüsra Üce
-- Betül Karabudak
-- Merve Bozdemir
+- Ahmet Emir Demirtaş: Product Owner
+- Mertcan Cihan: Scrum Master
+- Yüsra Üce: Team Member/Developer
+- Betül Karabudak: Team Member/Developer
+- Merve Bozdemir: Team Member/Developer
 
 ## Ürün İsmi
 For Animals
@@ -21,8 +21,7 @@ For Animals
 - Bölgelere göre yardım edilecek hayvan dostlarımızın sayısı
 - Takımlar ve üyeleri
 - Takımlar arası puan listesi
-- aaaaaa
-- aaaaa
+- ...projenin ilerleyen safhalarında güncellenecektir.
 
 ## Hedef Kitle
 
@@ -40,8 +39,8 @@ buraya miroda yaptığım kanban şemasının linki gelcek
 
 - **Sprint Notları** : User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - **Sprint içinde tamamlanması tahmin edilen puan**:
-- **Puan tamamlama mantığı**:
-- **Backlog düzeni ve Story seçimleri**: 
+- **Puan tamamlama mantığı**: Araya Sınavlar ve bayram gibi olayların girmesi sebebiyle sprint 1 e normalden geç başladık. Dolayısıyla Puan mantığımız proje bütünüyle değil sprint bazlı ilerleyecektir.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz projeye başlarkenki toplantımızdan çıkan fikirler çerçevesinde oluşmuştur. User storyler ürün, gelişim aşaması ilerledikçe, ortaya çıktıkça eklenecektir.
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir.
 -  **Sprint board update**: Sprint board screenshotları: 
 -  resim
@@ -51,4 +50,4 @@ buraya miroda yaptığım kanban şemasının linki gelcek
 -  ürün ss
 - **Sprint Review**: sprint sonu dönemi gözden geçirip değerlendrmesi buraya yazılacak
 - **Sprint Retrospective**: geriye dönük genelde olumlu olayları konuşup yaptığımız çıkarımlar vs..
-- -**Diğer Notlar**: varsa 
+- -**Diğer Notlar**: Projeye sprint ortası gibi başlayabildiğimiz için tam olarak verimli bir dönem geçirdiğimiz söylenemez. Diğer sprint dönemlerinde daha verimli ve üretken olacağız. 
