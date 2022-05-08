@@ -41,13 +41,14 @@ For Animals
 - **Sprint içinde tamamlanması tahmin edilen puan**: Projenin planlaması tam anlamıyla bitmediği için tahmini bir puan belirlenmemiştir.
 - **Puan tamamlama mantığı**: Araya Sınavlar ve bayram gibi olayların girmesi sebebiyle sprint 1 e normalden geç başladık. Dolayısıyla Puan mantığımız bu sprint için proje bütünüyle değil sprint bazlı ilerleyecektir.
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz projeye başlarkenki toplantımızdan çıkan fikirler çerçevesinde oluşmuştur. User storyler ürün, gelişim aşaması ilerledikçe, ortaya çıktıkça eklenecektir.
-- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 1 için Daily Scrum Notları](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/edbf27ec6f9368c53f1d5ad53665a509ce26d9cd/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 1 için Daily Scrum Notları](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/raw/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
 -  **Sprint board update**: Sprint board screenshotları: 
--  ![Backlog 1](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/backlog1.png)
--  ![Backlog 2](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/backlog2.png)
--  ![Backlog 3](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/backlog3.png)
+-  ![Backlog 1](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog1.png)
+-  ![Backlog 2](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog2.png)
+-  ![Backlog 3](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
--  ![Screenshot 1](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/productss.jpeg)
+-  ![Screenshot 1](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/productss%20(1).jpeg)
+-  ![Screenshot 2](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/productss%20(2).jpeg)
 - **Sprint Review**: 2.sprint dönemine grup toplantısıyla girilecek ve proje üzerine detaylıca konuşarak bundan sonrası için daha emin adımlarla ilerlenecektir.
 - **Sprint Retrospective:**
   - Takımın düzenli olarak yapacakları meet saatlerine karar verilmiştir.
