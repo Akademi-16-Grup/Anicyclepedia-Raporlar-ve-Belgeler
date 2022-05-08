@@ -48,7 +48,7 @@ For Animals
 -  ![Backlog 3](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/backlog3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
 -  ![Screenshot 1](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/productss.jpeg)
-- **Sprint Review**: '.sprint dönemine grup toplantısıyla girilecek ve proje üzerine detaylıca konuşarak bundan sonrası için daha emin adımlarla ilerlenecektir.
+- **Sprint Review**: 2.sprint dönemine grup toplantısıyla girilecek ve proje üzerine detaylıca konuşarak bundan sonrası için daha emin adımlarla ilerlenecektir.
 - **Sprint Retrospective:**
   - Takımın düzenli olarak yapacakları meet saatlerine karar verilmiştir.
   - Herkesin aktif olarak katıldığı toplantılarla ekibe uygun sprint planı çıkarılacaktır.
