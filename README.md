@@ -14,7 +14,7 @@ Flutter Bootcamp 16.Takım
 For Animals
 
 ## Ürün Açıklaması
- - Gönüllülerden oluşan kullanıcılar sayesinde kurulan takımlar yardıma muhtaç sokak hayvanlarının ihtiyaçlarını karşılayacaklar.
+ - Gönüllülerden oluşan kullanıcılar sayesinde kurulan takımların yardıma muhtaç sokak hayvanlarının ihtiyaçlarını karşılayacakları bir platform.
 
 ## Ürün Özellikleri
 
@@ -27,7 +27,7 @@ For Animals
 
 - Hayvanseverler
 - Yardım Kurum ve kuruluşarı
-- Tüm insanlar 
+- Tüm İnsanlar 
 
 ## Product Backlog URL
 
@@ -43,11 +43,15 @@ For Animals
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz projeye başlarkenki toplantımızdan çıkan fikirler çerçevesinde oluşmuştur. User storyler ürün, gelişim aşaması ilerledikçe, ortaya çıktıkça eklenecektir.
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir.
 -  **Sprint board update**: Sprint board screenshotları: 
--  resim
--  resim
+-  ![Backlog 1](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/backlog1.png)
+-  ![Backlog 2](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/backlog2.png)
+-  ![Backlog 3](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/backlog3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
--  ürün ss
--  ürün ss
+-  ![Screenshot 1](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/productss.jpeg)
 - **Sprint Review**: sprint sonu dönemi gözden geçirip değerlendrmesi buraya yazılacak
-- **Sprint Retrospective**: geriye dönük genelde olumlu olayları konuşup yaptığımız çıkarımlar vs..
-- -**Diğer Notlar**: Projeye sprint ortası gibi başlayabildiğimiz için tam olarak verimli bir dönem geçirdiğimiz söylenemez. Diğer sprint dönemlerinde daha verimli ve üretken olacağız. 
+- **Sprint Retrospective:**
+  - Takımın düzenli olarak yapacakları meet saatlerine karar verilmiştir.
+  - Herkesin aktif olarak katıldığı toplantılarla ekibe uygun sprint planı çıkarılacaktır.
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı 
+ 
+- **Diğer Notlar**: Projeye sprint ortası gibi başlayabildiğimiz için tam olarak verimli bir dönem geçirdiğimiz söylenemez. Diğer sprint dönemlerinde daha verimli ve üretken olacağız. 
