@@ -38,8 +38,8 @@ For Animals
 # Sprint 1
 
 - **Sprint Notları** : User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-- **Sprint içinde tamamlanması tahmin edilen puan**:
-- **Puan tamamlama mantığı**: Araya Sınavlar ve bayram gibi olayların girmesi sebebiyle sprint 1 e normalden geç başladık. Dolayısıyla Puan mantığımız proje bütünüyle değil sprint bazlı ilerleyecektir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: Projenin planlaması tam anlamıyla bitmediği için tahmini bir puan belirlenmemiştir.
+- **Puan tamamlama mantığı**: Araya Sınavlar ve bayram gibi olayların girmesi sebebiyle sprint 1 e normalden geç başladık. Dolayısıyla Puan mantığımız bu sprint için proje bütünüyle değil sprint bazlı ilerleyecektir.
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz projeye başlarkenki toplantımızdan çıkan fikirler çerçevesinde oluşmuştur. User storyler ürün, gelişim aşaması ilerledikçe, ortaya çıktıkça eklenecektir.
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir.
 -  **Sprint board update**: Sprint board screenshotları: 
@@ -48,7 +48,7 @@ For Animals
 -  ![Backlog 3](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/backlog3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
 -  ![Screenshot 1](https://github.com/Akademi-16-Grup/Read-Me/blob/main/ProjectManagement/Sprint1Documents/productss.jpeg)
-- **Sprint Review**: sprint sonu dönemi gözden geçirip değerlendrmesi buraya yazılacak
+- **Sprint Review**: '.sprint dönemine grup toplantısıyla girilecek ve proje üzerine detaylıca konuşarak bundan sonrası için daha emin adımlarla ilerlenecektir.
 - **Sprint Retrospective:**
   - Takımın düzenli olarak yapacakları meet saatlerine karar verilmiştir.
   - Herkesin aktif olarak katıldığı toplantılarla ekibe uygun sprint planı çıkarılacaktır.
