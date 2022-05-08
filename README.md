@@ -31,7 +31,7 @@ For Animals
 
 ## Product Backlog URL
 
-buraya miroda yaptığım kanban şemasının linki gelcek
+[Miro Backlog Board](https://miro.com/app/board/uXjVO4Uc7FE=/)
 
 ---
 
