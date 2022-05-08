@@ -57,4 +57,4 @@ For Animals
  
 - **Diğer Notlar**: Projeye sprint ortası gibi başlayabildiğimiz için tam olarak verimli bir dönem geçirdiğimiz söylenemez. Diğer sprint dönemlerinde daha verimli ve üretken olacağız. 
 
-# Sprint 2
+
