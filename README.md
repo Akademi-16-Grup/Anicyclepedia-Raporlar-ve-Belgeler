@@ -56,3 +56,5 @@ For Animals
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı 
  
 - **Diğer Notlar**: Projeye sprint ortası gibi başlayabildiğimiz için tam olarak verimli bir dönem geçirdiğimiz söylenemez. Diğer sprint dönemlerinde daha verimli ve üretken olacağız. 
+
+# Sprint 2
