@@ -26,7 +26,7 @@ For Animals
 ## Hedef Kitle
 
 - Hayvanseverler
-- Yardım Kurum ve kuruluşarı
+- Yardım Kurum ve Kuruluşları
 - Tüm İnsanlar 
 
 ## Product Backlog URL
