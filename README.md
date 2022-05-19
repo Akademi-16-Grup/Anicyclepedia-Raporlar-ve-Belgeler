@@ -5,10 +5,10 @@ Flutter Bootcamp 16.Takım
 ## Takım Elemanları
 
 - Ahmet Emir Demirtaş: Product Owner
-- Mertcan Cihan: Scrum Master
+- Merve Bozdemir: Scrum Master
 - Yüsra Üce: Team Member/Developer
 - Betül Karabudak: Team Member/Developer
-- Merve Bozdemir: Team Member/Developer
+- Mertcan Cihan: Team Member/Developer
 
 ## Ürün İsmi
 For Animals
@@ -57,4 +57,36 @@ For Animals
  
 - **Diğer Notlar**: Projeye sprint ortası gibi başlayabildiğimiz için tam olarak verimli bir dönem geçirdiğimiz söylenemez. Diğer sprint dönemlerinde daha verimli ve üretken olacağız. 
 
+---
+
+# Sprint 2
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: User storyler henüz tamamlanmadığı için bu sprint için bir puan hedefi belirlenmemiştir.
+
+- **Puan tamamlama mantığı**: 
+
+- **Backlog düzeni ve Story seçimleri**:
+
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.
+
+- **Sprint Review:** Projenin son halinin bir gösterimi gerçekleşmiştir. İyi veya kötü bireysel değerlendirmeler yapılmıştır. Sprintte tamamlanan işler ve tamamlanması gereken işler konuşulmuştur.
+
+   Sprint Review katılımcıları:
+    - Ahmet Emir Demirtaş: Product Owner
+    - Merve Bozdemir: Scrum Master
+    - Mertcan Cihan: Team Member/Developer
+    - Betül Karabudak: Team Member/Developer
+    - Yüsra Üce: Team Member/Developer
+
+- **Sprint Retrospective**:
+
+    - Bir sonraki meet toplantısı için herkese uygun olan zaman seçilmiştir.
+ 
+    - Bir önceki sprintteki eksiklerimiz konuşulmuş ve daha iyisi için neler yapabileceğimize karar verilmiştir.
+ 
+    - 2.sprinti en verimli nasıl bitirebileceğimiz konuşulmuştur.
+ 
+    - Ekip olarak alınan kararla görev dağılımında birkaç değişikliğe gidilmiştir.
 
