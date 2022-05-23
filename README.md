@@ -14,19 +14,17 @@ Flutter Bootcamp 16.Takım
 For Animals
 
 ## Ürün Açıklaması
- - Gönüllülerden oluşan kullanıcılar sayesinde kurulan takımların yardıma muhtaç sokak hayvanlarının ihtiyaçlarını karşılayacakları bir platform.
+ - Türlerine göre canlılarla alakalı bilgilere erişebileceğiniz bir cep ansiklopedisi.
 
 ## Ürün Özellikleri
 
-- Bölgelere göre yardım edilecek hayvan dostlarımızın sayısı
-- Takımlar ve üyeleri
-- Takımlar arası puan listesi
-- ...projenin ilerleyen safhalarında güncellenecektir.
+- Kategorilere ayrılmış canlılar
+- Basit arayüz
+- İlgili resim ve metinler
 
 ## Hedef Kitle
 
 - Hayvanseverler
-- Yardım Kurum ve Kuruluşları
 - Tüm İnsanlar 
 
 ## Product Backlog URL
@@ -67,9 +65,13 @@ For Animals
 
 - **Puan tamamlama mantığı**: Bu dönem projeyle alakalı bir ilerleme gösterilmedi değerlendirme planlanmadı.
 
-- **Backlog düzeni ve Story seçimleri**:
+- **Backlog düzeni ve Story seçimleri**: Proje değiştirildiği için gelecek sprintin backlog planlaması yapılmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.
+
+- **Sprint Board Update**: Geliştirme yapılmadığı için son sprintin iş yığını bu şekilde olacaktır.
+- ![Backlog](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Backlog.png)
+- **Ürün Durum**: Projenin değişmesinden dolayı bu dönem bir çıktı koyamıyoruz.
 
 - **Sprint Review:** Çalışan bir proje ortaya çıkarabilmek için yeni bir projeye başlama kararı alınmıştır. İyi veya kötü bireysel değerlendirmeler yapılmıştır. Sprintte tamamlanan işler ve tamamlanması gereken işler konuşulmuştur.
 
