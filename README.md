@@ -61,17 +61,17 @@ For Animals
 
 # Sprint 2
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Bu sprint dönemi birtakım sıkıntılardan dolayı hiçbir şey  üretilmedi. Proje değişti ve iş yığını tasarlandı. 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: User storyler henüz tamamlanmadığı için bu sprint için bir puan hedefi belirlenmemiştir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: Bu dönem projeyle alakalı bir ilerleme gösterilmedi değerlendirme planlanmadı.
 
-- **Puan tamamlama mantığı**: 
+- **Puan tamamlama mantığı**: Bu dönem projeyle alakalı bir ilerleme gösterilmedi değerlendirme planlanmadı.
 
 - **Backlog düzeni ve Story seçimleri**:
 
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.
 
-- **Sprint Review:** Projenin son halinin bir gösterimi gerçekleşmiştir. İyi veya kötü bireysel değerlendirmeler yapılmıştır. Sprintte tamamlanan işler ve tamamlanması gereken işler konuşulmuştur.
+- **Sprint Review:** Çalışan bir proje ortaya çıkarabilmek için yeni bir projeye başlama kararı alınmıştır. İyi veya kötü bireysel değerlendirmeler yapılmıştır. Sprintte tamamlanan işler ve tamamlanması gereken işler konuşulmuştur.
 
    Sprint Review katılımcıları:
     - Ahmet Emir Demirtaş: Product Owner
@@ -84,9 +84,7 @@ For Animals
 
     - Bir sonraki meet toplantısı için herkese uygun olan zaman seçilmiştir.
  
-    - Bir önceki sprintteki eksiklerimiz konuşulmuş ve daha iyisi için neler yapabileceğimize karar verilmiştir.
+    - Ekip olarak alınan kararla görev dağılımında birkaç değişikliğe gidilmiştir
  
-    - 2.sprinti en verimli nasıl bitirebileceğimiz konuşulmuştur.
- 
-    - Ekip olarak alınan kararla görev dağılımında birkaç değişikliğe gidilmiştir.
+    - Yeni projede nasıl bir yol izleneceğine karar verilmitir.
 
