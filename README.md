@@ -11,7 +11,7 @@ Flutter Bootcamp 16.Takım
 - Mertcan Cihan: Team Member/Developer
 
 ## Ürün İsmi
-For Animals
+Ani-cyclopedia
 
 ## Ürün Açıklaması
  - Türlerine göre canlılarla alakalı bilgilere erişebileceğiniz bir cep ansiklopedisi.
