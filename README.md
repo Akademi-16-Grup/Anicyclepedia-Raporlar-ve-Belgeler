@@ -101,7 +101,7 @@ Ani-cyclopedia
 
 - **Puan tamamlama mantığı**:Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeğide görevlerle belirlenmiştir.
 
-- **Backlog düzeni ve Story seçimleri**:
+- **Backlog düzeni ve Story seçimleri**: Backolog düzeni proje değiştiği için yeni projede öncelikli olarak nelerin yapılması gerekiyorsa ona göre belirlenmiştir. Storyler proje ilerlerken karşılaşılabilecek durumlardan türetilmiştir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 3 için Daily Scrum Notları](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/raw/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
 
