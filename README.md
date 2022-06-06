@@ -95,13 +95,13 @@ Ani-cyclopedia
 
 # Sprint 3
 
-- **Sprint Notları** : 
+- **Sprint Notları** : Bu kısımda ürün tam anlamıyla tamamlanmıştır. Proje kullanılabilir bir duruma geldi. Kullanıcıya rahatlıkla sunulabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:30
 
-- **Puan tamamlama mantığı**:Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeğide görevlerle belirlenmiştir.
+- **Puan tamamlama mantığı**:Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeği de görevlerle belirlenmiştir.
 
-- **Backlog düzeni ve Story seçimleri**: Backolog düzeni proje değiştiği için yeni projede öncelikli olarak nelerin yapılması gerekiyorsa ona göre belirlenmiştir. Storyler proje ilerlerken karşılaşılabilecek durumlardan türetilmiştir.
+- **Backlog düzeni ve Story seçimleri**: Backlog düzeni proje değiştiği için yeni projede öncelikli olarak nelerin yapılması gerekiyorsa ona göre belirlenmiştir. Storyler proje ilerlerken karşılaşılabilecek durumlardan türetilmiştir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 3 için Daily Scrum Notları](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/raw/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
 
@@ -116,7 +116,7 @@ Ani-cyclopedia
 -  ![Screenshot 3](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/ss3.jpeg)
 -  ![Screenshot 4](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/ss4.jpeg)
 
-- **Sprint Review**:
+- **Sprint Review**: Alınan kararlar: Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ürünün github sayfasında son düzenlemeler yapılmış ve ekibin ürün teslimine hazır olduğuna ortak karar verilmiştir.
 
    Sprint Review katılımcıları:
     - Ahmet Emir Demirtaş: Product Owner
@@ -127,4 +127,8 @@ Ani-cyclopedia
 
 - **Sprint Retrospective:**
 
-- **Diğer Notlar**:
+    - Sprint sürecinde yapılan işler değerlendirilmiştir.
+    - Uygulamanın düzgün çalıştığına ve 3.sprintin grup için verimli geçtiğine karar verilmiştir.
+
+
+- **Sprint Sonu**
