@@ -131,4 +131,4 @@ Ani-cyclopedia
     - Uygulamanın düzgün çalıştığına ve 3.sprintin grup için verimli geçtiğine karar verilmiştir.
 
 
-- **Sprint Sonu**
+  **Sprint Sonu**
