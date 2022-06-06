@@ -97,9 +97,9 @@ Ani-cyclopedia
 
 - **Sprint Notları** : Bu kısımda ürün tam anlamıyla tamamlanmıştır. Proje kullanılabilir bir duruma geldi. Kullanıcıya rahatlıkla sunulabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:30
+- **Sprint içinde tamamlanması tahmin edilen puan**: 30
 
-- **Puan tamamlama mantığı**:Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeği de görevlerle belirlenmiştir.
+- **Puan tamamlama mantığı**: Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeği de görevlerle belirlenmiştir.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog düzeni proje değiştiği için yeni projede öncelikli olarak nelerin yapılması gerekiyorsa ona göre belirlenmiştir. Storyler proje ilerlerken karşılaşılabilecek durumlardan türetilmiştir.
 
