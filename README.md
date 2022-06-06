@@ -39,14 +39,14 @@ Ani-cyclopedia
 - **Sprint içinde tamamlanması tahmin edilen puan**: Projenin planlaması tam anlamıyla bitmediği için tahmini bir puan belirlenmemiştir.
 - **Puan tamamlama mantığı**: Araya Sınavlar ve bayram gibi olayların girmesi sebebiyle sprint 1 e normalden geç başladık. Dolayısıyla Puan mantığımız bu sprint için proje bütünüyle değil sprint bazlı ilerleyecektir.
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz projeye başlarkenki toplantımızdan çıkan fikirler çerçevesinde oluşmuştur. User storyler ürün, gelişim aşaması ilerledikçe, ortaya çıktıkça eklenecektir.
-- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 1 için Daily Scrum Notları](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/raw/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 1 için Daily Scrum Notları](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/raw/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
 -  **Sprint board update**: Sprint board screenshotları: 
--  ![Backlog 1](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog1.png)
--  ![Backlog 2](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog2.png)
--  ![Backlog 3](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog3.png)
+-  ![Backlog 1](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog1.png)
+-  ![Backlog 2](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog2.png)
+-  ![Backlog 3](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Backlog3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
--  ![Screenshot 1](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/productss%20(1).jpeg)
--  ![Screenshot 2](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/productss%20(2).jpeg)
+-  ![Screenshot 1](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/productss%20(1).jpeg)
+-  ![Screenshot 2](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/productss%20(2).jpeg)
 - **Sprint Review**: 2.sprint dönemine grup toplantısıyla girilecek ve proje üzerine detaylıca konuşarak bundan sonrası için daha emin adımlarla ilerlenecektir.
 - **Sprint Retrospective:**
   - Takımın düzenli olarak yapacakları meet saatlerine karar verilmiştir.
@@ -70,7 +70,7 @@ Ani-cyclopedia
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.
 
 - **Sprint Board Update**: Geliştirme yapılmadığı için son sprintin iş yığını bu şekilde olacaktır.
-- ![Backlog](https://github.com/Akademi-16-Grup/ForAnimals-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Backlog.png)
+- ![Backlog](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Backlog.png)
 - **Ürün Durum**: Projenin değişmesinden dolayı bu dönem bir çıktı koyamıyoruz.
 
 - **Sprint Review:** Çalışan bir proje ortaya çıkarabilmek için yeni bir projeye başlama kararı alınmıştır. İyi veya kötü bireysel değerlendirmeler yapılmıştır. Sprintte tamamlanan işler ve tamamlanması gereken işler konuşulmuştur.
@@ -103,11 +103,18 @@ Ani-cyclopedia
 
 - **Backlog düzeni ve Story seçimleri**:
 
-- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 3 için Daily Scrum Notları](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/raw/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
 
 -  **Sprint board update**: Sprint board screenshotları:
+-  ![Backlog 1](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/Backlog1.png)
+-  ![Backlog 2](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/Backlog2.png)
+-  ![Backlog 3](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/Backlog3.png)
 
--  **Ürün Durumu**:
+-  **Ürün Durumu**: Ekran görüntüleri:
+-  ![Screenshot 1](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/ss1.jpeg)
+-  ![Screenshot 2](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/ss2.jpeg)
+-  ![Screenshot 3](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/ss3.jpeg)
+-  ![Screenshot 4](https://github.com/Akademi-16-Grup/Anicyclepedia-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/ss4.jpeg)
 
 - **Sprint Review**:
 
