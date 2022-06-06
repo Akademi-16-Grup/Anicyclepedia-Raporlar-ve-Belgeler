@@ -86,8 +86,38 @@ Ani-cyclopedia
 
     - Bir sonraki meet toplantısı için herkese uygun olan zaman seçilmiştir.
  
-    - Ekip olarak alınan kararla görev dağılımında birkaç değişikliğe gidilmiştir
+    - Ekip olarak alınan kararla görev dağılımında birkaç değişikliğe gidilmiştir.
  
-    - Yeni projede nasıl bir yol izleneceğine karar verilmitir.
+    - Yeni projede nasıl bir yol izleneceğine karar verilmiştir.
+
+---
+
 
 # Sprint 3
+
+- **Sprint Notları** : Projenin tüm planlaması ve kodlaması halledilerek 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+
+- **Puan tamamlama mantığı**:
+
+- **Backlog düzeni ve Story seçimleri**:
+
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütülmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.
+
+-  **Sprint board update**: Sprint board screenshotları:
+
+-  **Ürün Durumu**:
+
+- **Sprint Review**:
+
+   Sprint Review katılımcıları:
+    - Ahmet Emir Demirtaş: Product Owner
+    - Merve Bozdemir: Scrum Master
+    - Mertcan Cihan: Team Member/Developer
+    - Betül Karabudak: Team Member/Developer
+    - Yüsra Üce: Team Member/Developer
+
+- **Sprint Retrospective:**
+
+- **Diğer Notlar**:
