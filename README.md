@@ -95,7 +95,7 @@ Ani-cyclopedia
 
 # Sprint 3
 
-- **Sprint Notları** : Projenin tüm planlaması ve kodlaması halledilerek 
+- **Sprint Notları** : 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 
