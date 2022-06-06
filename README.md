@@ -97,9 +97,9 @@ Ani-cyclopedia
 
 - **Sprint Notları** : 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**:30
 
-- **Puan tamamlama mantığı**:
+- **Puan tamamlama mantığı**:Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeğide görevlerle belirlenmiştir.
 
 - **Backlog düzeni ve Story seçimleri**:
 
